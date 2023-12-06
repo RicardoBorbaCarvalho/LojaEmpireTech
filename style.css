@@ -16,7 +16,7 @@
   list-style: none;
 }
 .background {
-  background: url(img/empire-logo.png);
+  background: url(empire-logo.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -141,7 +141,7 @@ section {
   cursor: pointer;
 }
 .cta {
-  background: url(img/logo_tipoaolado.png);
+  background: url(logo_tipoaolado.png);
   background-position: center;
   background-size: cover;
   height: 350px;
@@ -262,7 +262,7 @@ color: #CFD6E9  */
 
 @media (max-width: 450px) {
   .background {
-    background: url(img/empire-logo.png);
+    background: url(empire-logo.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -379,7 +379,7 @@ color: #CFD6E9  */
     height: auto;
   }
   .cta {
-    background: url(img/logo_tipoaolado.png);
+    background: url(logo_tipoaolado.png);
     background-position: center;
     background-size: cover;
     height: 0.1px;
@@ -471,7 +471,7 @@ color: #CFD6E9  */
 /* responsividade tablets */
 @media (min-width: 768px) adn (max-width: 1024px) {
   .background {
-    background: url(img/empire-logo.png);
+    background: url(empire-logo.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -588,7 +588,7 @@ color: #CFD6E9  */
     height: auto;
   }
   .cta {
-    background: url(img/logo_tipoaolado.png);
+    background: url(logo_tipoaolado.png);
     background-position: center;
     background-size: cover;
     height: 0.1px;
