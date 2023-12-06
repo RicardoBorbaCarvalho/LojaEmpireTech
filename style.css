@@ -68,9 +68,6 @@ header {
   font-weight: 700;
   transition: 0.3s;
   text-decoration: none;
-  text-align: center;
-  display: flex;
-  margin: 0;
 }
 
 .cabeçalho-link a:hover {
@@ -84,8 +81,11 @@ li {
 }
 
 .icon span {
+  display: inline-flex;
   font-size: 2rem;
   cursor: pointer;
+  max-width: 100%;
+  min-width: 100%;
 }
 
 .icon span:hover {
