@@ -297,7 +297,7 @@ color: #CFD6E9  */
 @media (max-width: 450px){
 
   .background {
-    background: url(img/empire-logo.png);
+    background: url(empire-logo.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -432,7 +432,7 @@ color: #CFD6E9  */
 }
 
 .cta {
-  background: url(img/logo_tipoaolado.png);
+  background: url(logo_tipoaolado.png);
   background-position: center;
   background-size: cover;
   height: 0.1px;
