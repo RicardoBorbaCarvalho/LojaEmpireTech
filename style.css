@@ -469,7 +469,7 @@ color: #CFD6E9  */
 }
 
 /* responsividade tablets */
-@media (min-width: 768px) adn (max-width: 1024px) {
+@media (min-width: 768px) and (max-width: 1024px) {
   .background {
     background: url(empire-logo.png);
     background-repeat: no-repeat;
