@@ -550,8 +550,8 @@ color: #CFD6E9  */
     background-color: #555;
   }
   .cards img {
-    width: 250px;
-    height: 350px;
+    width: 150px;
+    height: 250px;
     transition: 0.35s ease;
   }
   .cards img:hover {
