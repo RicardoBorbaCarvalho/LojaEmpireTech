@@ -60,7 +60,7 @@ header {
   text-align: center;
   gap: 8rem;
   max-height: 100%;
-  min-width: %;
+  margin: 0 0 0 500px;
 }
 .cabeçalho-link a {
   color: #111;
