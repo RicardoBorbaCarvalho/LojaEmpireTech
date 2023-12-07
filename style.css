@@ -135,6 +135,8 @@ section {
   width: 350px;
   height: auto;
   transition: 0.35s ease;
+  float:left;
+  margin: 0 auto;
 }
 .cards img:hover {
   transform: scale(0.9) translateY(5px);
@@ -338,8 +340,8 @@ color: #CFD6E9  */
     background-color: #555;
   }
   .cards img {
-    width: 250px;
-    height: 350px;
+    width: 150px;
+    height: 250px;
     transition: 0.35s ease;
   }
   .cards img:hover {
