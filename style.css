@@ -260,6 +260,7 @@ section {
 
 color: #CFD6E9  */
 
+/* responsividade celulares */
 @media (max-width: 450px) {
   .background {
     background: url(empire-logo.png);
@@ -282,6 +283,7 @@ color: #CFD6E9  */
   .meio {
     line-height: 2rem;
     max-height: 2px;
+    display: none;
   }
   .meio button {
     background-color: #cfd6e9;
@@ -389,9 +391,11 @@ color: #CFD6E9  */
     margin-top: 5rem;
   }
   .text-cta {
+    display: none;
     padding-left: 3rem;
   }
   .text-cta h6 {
+    display: none;
     font-size: 10px;
     font-weight: 500;
     margin-bottom: 10px;
@@ -467,6 +471,7 @@ color: #CFD6E9  */
       sans-serif;
   }
 }
+
 
 /* responsividade tablets */
 @media (min-width: 768px) and (max-width: 1024px) {
